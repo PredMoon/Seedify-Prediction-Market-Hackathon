@@ -1,4 +1,4 @@
-# Cypherpunk Hackathon 2025
+# PredMoon
 
 > Shaping the Global Prediction Market Ecosystem - From Infrastructure to Innovation
 
