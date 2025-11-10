@@ -35,43 +35,7 @@ A low-risk, fun, and easy-to-use prediction market with social interaction.
 ![screenshot-5](./assets/5.png)
 </details>
 
-## Team
-
-Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+ global hackathon awards and successful product scaling experience. We combine deep technical knowledge in blockchain development, frontend engineering, and AI tools with strong entrepreneurial backgrounds from major tech companies including 360, RC, iHealth.
-
-<details>
-<summary>Click to expand the details</summary>
-
-### **Founding Team**
-
-**Adam Ma – Founder & CEO**
-- **Background**: 15+ years in tech entrepreneurship with extensive Web2 and Web3 experience
-- **Web2 Experience**: 360, iHealth , Sneaker Exchange platform (sneaker marketplace with millions in transaction volume)
-- **Web3 Expertise**: Won 20+ global hackathon awards
-- **Current Focus**: All-in on prediction markets since 2025, leading technical vision and product strategy
-
-**Alfred Fu – Co-founder & CMO**
-- **Education**: HKUST graduate with strong technical and creative background
-- **Experience**: Years at Tsinghua Research Institute, deep expertise in AI tools and product ideation
-- **Role**: Leads product design, social media strategy, and brand development
-- **Skills**: Combines technical development experience with creative marketing insights
-
-### **Core Development Team**
-- **3 Full-Stack Core Developers**: Experienced team covering backend, frontend, and smart contract development
-- **Total Team Size**: 5 members (2 founders + 3 developers) with plans to expand
-
-### **Team Strengths**
-- **Balanced Expertise**: Technical depth combined with creative vision and business acumen
-- **Web3 Experience**: Extensive blockchain and prediction market knowledge
-- **APAC Focus**: Native understanding of Asian markets and cultural nuances
-- **Execution Track Record**: Successfully launched functional MVP with real users
-
-</details>
-
 ## Architecture & Implementation
-
-- **Overview Diagram**: 
-![structure](./assets/flow.jpg)
 
 - **Key Modules**:
   - Frontend: Swipe trading system/Embedded wallet/Cross-chain transfer integration
@@ -84,15 +48,11 @@ Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+
   - Contracts: Rust
   - Deployment: Vercel, AWS
 
-## Roadmap & Impact
+<details>
+<summary>Click to expand the details</summary>
 
-- **1-3 Weeks Post-Competition**: Complete continuous optimization of pages and system performance, improve user experience and market stability.
-- **1-3 Months Post-Competition**: Drive user growth through cold-start operations and community incentive programs;
-  Conduct multiple marketing campaigns to enhance brand exposure and prediction market liquidity;
-  Gradually launch PredSeed financing plan to provide funding support for subsequent product expansion and ecosystem construction.
-- **Expected Value to Ethereum Ecosystem**: Become the first Chinese-language prediction market project in the Ethereum ecosystem, innovating user experience with unique style, and promoting diversified development of global prediction markets.
-
-## Prediction Market Matching Scenarios
+- **Overview Diagram**: 
+![structure](./assets/flow.jpg)
 
 ### Asset Definitions
 
@@ -196,3 +156,47 @@ Base fee rate (`baseFeeRate`) is written into order structure, corresponding to 
   0.01 * min(0.99, 0.01) * 100 = 0.01 (deduct 0.01 `C` as fee)
 - Buying 100 `A'` at $0.01:  
   0.01 * min(0.01, 0.99) * 100 = 0.01 (deduct 1 `A'` as fee)
+
+</details>
+
+## Roadmap & Impact
+
+- **1-3 Weeks Post-Competition**: Complete continuous optimization of pages and system performance, improve user experience and market stability.
+- **1-3 Months Post-Competition**: Drive user growth through cold-start operations and community incentive programs;
+  Conduct multiple marketing campaigns to enhance brand exposure and prediction market liquidity;
+  Gradually launch PredSeed financing plan to provide funding support for subsequent product expansion and ecosystem construction.
+- **Expected Value to Ethereum Ecosystem**: Become the first Chinese-language prediction market project in the Ethereum ecosystem, innovating user experience with unique style, and promoting diversified development of global prediction markets.
+
+## Team
+
+Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+ global hackathon awards and successful product scaling experience. We combine deep technical knowledge in blockchain development, frontend engineering, and AI tools with strong entrepreneurial backgrounds from major tech companies including 360, RC, iHealth.
+
+<details>
+<summary>Click to expand the details</summary>
+
+### **Founding Team**
+
+**Adam Ma – Founder & CEO**
+- **Background**: 15+ years in tech entrepreneurship with extensive Web2 and Web3 experience
+- **Web2 Experience**: 360, iHealth , Sneaker Exchange platform (sneaker marketplace with millions in transaction volume)
+- **Web3 Expertise**: Won 20+ global hackathon awards
+- **Current Focus**: All-in on prediction markets since 2025, leading technical vision and product strategy
+
+**Alfred Fu – Co-founder & CMO**
+- **Education**: HKUST graduate with strong technical and creative background
+- **Experience**: Years at Tsinghua Research Institute, deep expertise in AI tools and product ideation
+- **Role**: Leads product design, social media strategy, and brand development
+- **Skills**: Combines technical development experience with creative marketing insights
+
+### **Core Development Team**
+- **3 Full-Stack Core Developers**: Experienced team covering backend, frontend, and smart contract development
+- **Total Team Size**: 5 members (2 founders + 3 developers) with plans to expand
+
+### **Team Strengths**
+- **Balanced Expertise**: Technical depth combined with creative vision and business acumen
+- **Web3 Experience**: Extensive blockchain and prediction market knowledge
+- **APAC Focus**: Native understanding of Asian markets and cultural nuances
+- **Execution Track Record**: Successfully launched functional MVP with real users
+
+</details>
+
