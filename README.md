@@ -45,7 +45,7 @@ A low-risk, fun, and easy-to-use prediction market with social interaction.
 - **Dependencies & Tech Stack**:
   - Frontend: Vue/Nuxt.js, ethers.js, Tailwind CSS, Privy.js
   - Backend: Node.js, Supabase, PostgreSQL
-  - Contracts: Rust
+  - Contracts: Solidity
   - Deployment: Vercel, AWS
 
 ![structure](./assets/flow.jpg)
