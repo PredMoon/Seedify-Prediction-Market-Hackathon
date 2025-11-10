@@ -52,6 +52,7 @@ A low-risk, fun, and easy-to-use prediction market with social interaction.
 <summary>Click to expand the details</summary>
 
 - **Overview Diagram**: 
+
 ![structure](./assets/flow.jpg)
 
 ### Asset Definitions
