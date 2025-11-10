@@ -1,23 +1,19 @@
 # PredMoon: Tinder-like prediction market for everyone.
 
-[![Welcome Screen Video](https://img.youtube.com/vi/L1EUuGuA4kk/0.jpg)](https://youtu.be/L1EUuGuA4kk)
-
-*Click the image above to watch the Welcome Screen video*
-
-[![Swipe to trade Screen Video](https://img.youtube.com/vi/aVr3gImS8a8/0.jpg)](https://youtube.com/shorts/aVr3gImS8a8)
-
-*Click the image above to watch the Swipe to trade Screen video*
-
 ## 1. Deliverables
 
 - [x] GitHub Repository
-- [x] [Deck](https://www.canva.com/design/DAG2PfMVKZM/lUOhxNw80bQNv4kbpQnQag/view?utm_content=DAG2PfMVKZM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0f28c489d)
-- [x] Product/Tech Demo Video on youtube: https://youtu.be/RUZHgOvq8hk
+- [x] [Deck](./assets/PredMoon.pdf)
+- [x] Pitch Video:
+- [x] Product Video:
 - [x] Online Demo Link
-  - Onchain version: https://Pred.WTF
-  - Offchain version: https://Pred.WTF/t-1 (replace t-1 to t-2,3...17)
   - Pro version(the same UI as PolyMarket): https://pro.Pred.WTF
+  - Mobile first version: https://Pred.WTF
+  - Offchain version: https://Pred.WTF/t-1 (replace t-1 to t-2,3...17)
 - [x] Contract Deployment Information
+  - Contract Address: 0x323843963e5ea78152742e5595edc6929b150230
+  - Blockchain: Binance Smart Chain
+  - Explorer: https://bscscan.com/address/0x323843963e5ea78152742e5595edc6929b150230
 
 ## 2. QA
 
@@ -234,7 +230,16 @@ Base fee rate (`baseFeeRate`) is written into order structure, corresponding to 
 - Buying 100 `A'` at $0.01:  
   0.01 * min(0.01, 0.99) * 100 = 0.01 (deduct 1 `A'` as fee)
 
-## 6. Screenshots
+## 6. Screenshots && Demo
+
+[![Welcome Screen Video](https://img.youtube.com/vi/L1EUuGuA4kk/0.jpg)](https://youtu.be/L1EUuGuA4kk)
+
+*Click the image above to watch the Welcome Screen video*
+
+[![Swipe to trade Screen Video](https://img.youtube.com/vi/aVr3gImS8a8/0.jpg)](https://youtube.com/shorts/aVr3gImS8a8)
+
+*Click the image above to watch the Swipe to trade Screen video*
+
   ![screenshot-1](./assets/1.png)
   ![screenshot-2](./assets/2.png)
   ![screenshot-3](./assets/3.png)
