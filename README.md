@@ -15,6 +15,27 @@
   - Blockchain: Binance Smart Chain
   - Explorer: https://bscscan.com/address/0x323843963e5ea78152742e5595edc6929b150230
 
+
+## Screenshots && Demo Video
+
+
+<details>
+<summary>Click to expand the details</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L1EUuGuA4kk?si=vJK_dl9sNeMXOQKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Swipe to trade Screen Video](https://img.youtube.com/vi/aVr3gImS8a8/0.jpg)](https://youtube.com/shorts/aVr3gImS8a8)
+
+*Click the image above to watch the Swipe to trade Screen video*
+
+![screenshot-1](./assets/1.png)
+![screenshot-2](./assets/2.png)
+![screenshot-3](./assets/3.png)
+![screenshot-4](./assets/4.png)
+![screenshot-5](./assets/5.png)
+
+</details>
+
 ## Team
 
 Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+ global hackathon awards and successful product scaling experience. We combine deep technical knowledge in blockchain development, frontend engineering, and AI tools with strong entrepreneurial backgrounds from major tech companies including 360, RC, iHealth.
@@ -176,19 +197,3 @@ Base fee rate (`baseFeeRate`) is written into order structure, corresponding to 
   0.01 * min(0.99, 0.01) * 100 = 0.01 (deduct 0.01 `C` as fee)
 - Buying 100 `A'` at $0.01:  
   0.01 * min(0.01, 0.99) * 100 = 0.01 (deduct 1 `A'` as fee)
-
-## 6. Screenshots && Demo
-
-[![Welcome Screen Video](https://img.youtube.com/vi/L1EUuGuA4kk/0.jpg)](https://youtu.be/L1EUuGuA4kk)
-
-*Click the image above to watch the Welcome Screen video*
-
-[![Swipe to trade Screen Video](https://img.youtube.com/vi/aVr3gImS8a8/0.jpg)](https://youtube.com/shorts/aVr3gImS8a8)
-
-*Click the image above to watch the Swipe to trade Screen video*
-
-  ![screenshot-1](./assets/1.png)
-  ![screenshot-2](./assets/2.png)
-  ![screenshot-3](./assets/3.png)
-  ![screenshot-4](./assets/4.png)
-  ![screenshot-5](./assets/5.png)
