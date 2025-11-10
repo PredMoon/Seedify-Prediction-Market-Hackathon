@@ -22,7 +22,9 @@
 <details>
 <summary>Click to expand the details</summary>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L1EUuGuA4kk?si=vJK_dl9sNeMXOQKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Welcome Screen Video](https://img.youtube.com/vi/L1EUuGuA4kk/0.jpg)](https://youtu.be/L1EUuGuA4kk)
+
+*Click the image above to watch the Welcome Screen video*
 
 [![Swipe to trade Screen Video](https://img.youtube.com/vi/aVr3gImS8a8/0.jpg)](https://youtube.com/shorts/aVr3gImS8a8)
 
@@ -33,7 +35,6 @@
 ![screenshot-3](./assets/3.png)
 ![screenshot-4](./assets/4.png)
 ![screenshot-5](./assets/5.png)
-
 </details>
 
 ## Team
