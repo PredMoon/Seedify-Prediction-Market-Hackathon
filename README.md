@@ -17,7 +17,7 @@
 
 
 <details>
-<summary>## Team</summary>
+##<summary>Team</summary>
 
 Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+ global hackathon awards and successful product scaling experience. We combine deep technical knowledge in blockchain development, frontend engineering, and AI tools with strong entrepreneurial backgrounds from major tech companies including 360, RC, iHealth.
 
