@@ -1,6 +1,11 @@
 # PredMoon: Tinder-like prediction market for everyone.
 
-![screenshot-3](./assets/3.png)
+![Welcome Screen Gif loading](./assets/welcome-screen.gif)
+
+ ![Swipe to Trade Gif loading](./assets/swipe-to-trade.gif)   ![One Click Trade Gif loading](./assets/one-click-trade.gif) 
+
+
+
 
 ## 1. Deliverables
 
