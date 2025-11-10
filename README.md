@@ -1,6 +1,4 @@
-# PredMoon
-
-> Shaping the Global Prediction Market Ecosystem - From Infrastructure to Innovation
+# PredMoon: Tinder-like prediction market for everyone.
 
 ![screenshot-3](./assets/3.png)
 
