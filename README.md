@@ -1,8 +1,9 @@
 # PredMoon: Tinder-like prediction market for everyone.
 
-![Welcome Screen Gif loading](./assets/welcome-screen.gif)
+:iframe{src="https://www.youtube.com/embed/L1EUuGuA4kk?si=xiv0Q7HSH-GqEkVs" title="Welcome" class="w-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9;"}
 
- ![Swipe to Trade Gif loading](./assets/swipe-to-trade.gif)   ![One Click Trade Gif loading](./assets/one-click-trade.gif) 
+* [Welcom Screen Video Youtube link](https://youtu.be/L1EUuGuA4kk)
+* [Swipe to trade youtube link](https://youtube.com/shorts/aVr3gImS8a8)
 
 ## 1. Deliverables
 
