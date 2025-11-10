@@ -15,7 +15,9 @@
   - Blockchain: Binance Smart Chain
   - Explorer: https://bscscan.com/address/0x323843963e5ea78152742e5595edc6929b150230
 
-## Team
+
+<details>
+<summary>## Team</summary>
 
 Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+ global hackathon awards and successful product scaling experience. We combine deep technical knowledge in blockchain development, frontend engineering, and AI tools with strong entrepreneurial backgrounds from major tech companies including 360, RC, iHealth.
 
@@ -42,6 +44,8 @@ Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+
 - **Web3 Experience**: Extensive blockchain and prediction market knowledge
 - **APAC Focus**: Native understanding of Asian markets and cultural nuances
 - **Execution Track Record**: Successfully launched functional MVP with real users
+
+</details>
 
 ## Architecture & Implementation
 
