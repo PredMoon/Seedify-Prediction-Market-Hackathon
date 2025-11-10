@@ -4,9 +4,6 @@
 
  ![Swipe to Trade Gif loading](./assets/swipe-to-trade.gif)   ![One Click Trade Gif loading](./assets/one-click-trade.gif) 
 
-
-
-
 ## 1. Deliverables
 
 - [x] GitHub Repository
