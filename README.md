@@ -15,7 +15,6 @@
   - Blockchain: Binance Smart Chain
   - Explorer: https://bscscan.com/address/0x323843963e5ea78152742e5595edc6929b150230
 
-
 ## Team
 
 Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+ global hackathon awards and successful product scaling experience. We combine deep technical knowledge in blockchain development, frontend engineering, and AI tools with strong entrepreneurial backgrounds from major tech companies including 360, RC, iHealth.
@@ -44,16 +43,7 @@ Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+
 - **APAC Focus**: Native understanding of Asian markets and cultural nuances
 - **Execution Track Record**: Successfully launched functional MVP with real users
 
-## 4. Project details
-### 1) Project Overview
-- **deck**: [Link](https://www.canva.com/design/DAG2PfMVKZM/lUOhxNw80bQNv4kbpQnQag/view?utm_content=DAG2PfMVKZM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0f28c489d)
-- **Project Name**: PredMoon
-- **One-line Description**: A prediction market platform that users could trade by their beliefs and knowledge
-- **Target Users**: All crypto users
-- **Core Problems & Motivation (Pain Points)**: Monetizing Beliefs and getting collective wisdom based on blockchain
-- **Solution**: We developed PredMoon using a combination of smart contracts, Vue, Supabase, and Privy to let users trade their knowledge on-chain. The platform operates like Tinder: swiping left or right corresponds to a YES/NO transaction, and users can earn a profit.
-
-### 2) Architecture & Implementation
+## Architecture & Implementation
 
 - **Overview Diagram**: 
 ![structure](./assets/flow.jpg)
@@ -69,43 +59,7 @@ Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+
   - Contracts: Rust
   - Deployment: Vercel, AWS
 
-
-### 3) Run & Reproduce
-
-- **Prerequisites**: Node 18+, pnpm, Git
-- **Environment Variables Example**:
-
-
-- **Quick Start (Local Example)**:
-
-```bash
-# Install dependencies
-pnpm install
-
-# Start backend
-pnpm --filter backend dev
-
-# Start frontend
-pnpm --filter frontend dev
-
-# Open http://localhost:3000
-```
-
-- **Online Demo**: [pred.wtf](https://pred.wtf)
-- **Account & Testing Instructions**: register by your own email
-
-### 4) Demo & Key Flows
-
-- **Video Link (≤3 minutes, Chinese)**: https://youtu.be/RUZHgOvq8hk
-- **Key Use Case Steps**:
-  - Use Case 1: Login module with Privy (embedded wallet)
-  - Use Case 2: Deposit through multi-chain
-  - Use Case 3: Trade module
-
-### 5) Verifiable Scope
-Due to commercial application reasons, complete system code cannot be provided
-
-### 6) Roadmap & Impact
+## Roadmap & Impact
 
 - **1-3 Weeks Post-Competition**: Complete continuous optimization of pages and system performance, improve user experience and market stability.
 - **1-3 Months Post-Competition**: Drive user growth through cold-start operations and community incentive programs;
@@ -113,7 +67,7 @@ Due to commercial application reasons, complete system code cannot be provided
   Gradually launch PredSeed financing plan to provide funding support for subsequent product expansion and ecosystem construction.
 - **Expected Value to Ethereum Ecosystem**: Become the first Chinese-language prediction market project in the Ethereum ecosystem, innovating user experience with unique style, and promoting diversified development of global prediction markets.
 
-## 5. Matching Scenarios
+## Prediction Market Matching Scenarios
 
 ### Asset Definitions
 
