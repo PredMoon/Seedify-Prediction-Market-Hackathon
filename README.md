@@ -1,6 +1,6 @@
 # PredMoon: Tinder-like prediction market for everyone.
 
-## 1. Deliverables
+A low-risk, fun, and easy-to-use prediction market with social interaction.
 
 - [x] GitHub Repository
 - [x] [Deck](./assets/PredMoon.pdf)
@@ -15,9 +15,7 @@
   - Blockchain: Binance Smart Chain
   - Explorer: https://bscscan.com/address/0x323843963e5ea78152742e5595edc6929b150230
 
-
 ## Screenshots && Demo Video
-
 
 <details>
 <summary>Click to expand the details</summary>
