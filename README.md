@@ -42,7 +42,7 @@ A low-risk, fun, and easy-to-use prediction market with social interaction.
   - Backend: Off-chain order matching/Hybrid decentralized exchange model
   - Contracts: Cross-chain bridge technology/Efficient transaction settlement/Decentralized security/Ecosystem compatibility
 - **Dependencies & Tech Stack**:
-  - Frontend: Vue/Nuxt.js, ethers.js, Tailwind CSS, Privy.js
+  - Frontend: Vue/Nuxt.js, Viem.sh, Wagmi.sh, Tailwind CSS, Privy.js
   - Backend: Node.js, Supabase, PostgreSQL
   - Contracts: Solidity, EIP2535, OpenZeppelin, ERC1155, ERC20
   - Deployment: Vercel, AWS
