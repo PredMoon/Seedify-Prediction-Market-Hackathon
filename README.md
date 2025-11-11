@@ -158,13 +158,12 @@ Base fee rate (`baseFeeRate`) is written into order structure, corresponding to 
 
 </details>
 
-## Roadmap & Impact
+## Roadmap
 
 - **1-3 Weeks Post-Competition**: Complete continuous optimization of pages and system performance, improve user experience and market stability.
 - **1-3 Months Post-Competition**: Drive user growth through cold-start operations and community incentive programs;
   Conduct multiple marketing campaigns to enhance brand exposure and prediction market liquidity;
-  Gradually launch PredSeed financing plan to provide funding support for subsequent product expansion and ecosystem construction.
-- **Expected Value to Ethereum Ecosystem**: Become the first Chinese-language prediction market project in the Ethereum ecosystem, innovating user experience with unique style, and promoting diversified development of global prediction markets.
+  Gradually launch Pre-Seed financing plan to provide funding support for subsequent product expansion and ecosystem construction.
 
 ## Team
 
