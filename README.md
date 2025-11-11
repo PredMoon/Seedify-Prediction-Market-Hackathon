@@ -41,7 +41,6 @@ A low-risk, fun, and easy-to-use prediction market with social interaction.
   - Frontend: Swipe trading system/Embedded wallet/Cross-chain transfer integration
   - Backend: Off-chain order matching/Hybrid decentralized exchange model
   - Contracts: Cross-chain bridge technology/Efficient transaction settlement/Decentralized security/Ecosystem compatibility
-  - Others: Self-developed Large Language Model (LLM)
 - **Dependencies & Tech Stack**:
   - Frontend: Vue/Nuxt.js, ethers.js, Tailwind CSS, Privy.js
   - Backend: Node.js, Supabase, PostgreSQL
