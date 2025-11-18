@@ -4,8 +4,7 @@ A low-risk, fun, and easy-to-use prediction market with social interaction.
 
 - [x] GitHub Repository
 - [x] [Deck](./assets/PredMoon.pdf)
-- [x] Pitch Video:
-- [x] Product Video:
+- [x] Pitch Video: https://www.loom.com/share/d1e3448c47394526b9361dff06787794
 - [x] Online Demo Link
   - Pro version(the same UI as PolyMarket): https://pro.Pred.WTF
   - Mobile first version: https://Pred.WTF
